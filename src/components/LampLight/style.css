@@ -1,0 +1,30 @@
+.lamp-light {
+  height: 30px;
+  width: 30px;
+}
+
+.lamp-light .overlap-group {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/66f771482170ed4ccb5de595a9f3c525/img/union-4.svg);
+  background-size: 100% 100%;
+  height: 22px;
+  left: 7px;
+  position: relative;
+  top: 4px;
+  width: 16px;
+}
+
+.lamp-light .ellipse {
+  height: 2px;
+  left: 5px;
+  position: absolute;
+  top: 16px;
+  width: 7px;
+}
+
+.lamp-light .vector {
+  height: 6px;
+  left: 4px;
+  position: absolute;
+  top: 10px;
+  width: 8px;
+}

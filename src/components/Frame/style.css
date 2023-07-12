@@ -1,0 +1,68 @@
+.frame {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  gap: 100px;
+  justify-content: center;
+  padding: 11px 43px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .img {
+  position: relative;
+}
+
+.frame .group {
+  position: relative;
+}
+
+.frame .UI-home {
+  height: 32px !important;
+  min-width: 32px !important;
+  position: relative !important;
+}
+
+.frame .none-selected {
+  height: 23.62px;
+  min-width: 23.62px;
+}
+
+.frame .community {
+  height: 23.62px;
+  min-width: 23.62px;
+}
+
+.frame .home {
+  height: 23.62px;
+  min-width: 23.62px;
+}
+
+.frame .add {
+  height: 25.12px;
+  min-width: 25.12px;
+}
+
+.frame .nav-none-selected {
+  height: 27.52px;
+  margin-right: -0.5px;
+  min-width: 50px;
+}
+
+.frame .nav-community {
+  height: 29.02px;
+  margin-right: -1.25px;
+  min-width: 51.5px;
+}
+
+.frame .nav-home {
+  height: 27.52px;
+  margin-right: -0.5px;
+  min-width: 50px;
+}
+
+.frame .nav-add {
+  height: 27.52px;
+  margin-right: -0.5px;
+  min-width: 50px;
+}

@@ -1,0 +1,50 @@
+.ios-UI-status-bar {
+  height: 44px;
+  position: relative;
+  width: 375px;
+}
+
+.ios-UI-status-bar .right-side {
+  height: 11px;
+  left: 290px;
+  position: absolute;
+  top: 17px;
+  width: 67px;
+}
+
+.ios-UI-status-bar .left-side {
+  height: 21px;
+  left: 24px;
+  position: absolute;
+  top: 12px;
+  width: 54px;
+}
+
+.ios-UI-status-bar .time {
+  border-radius: 24px;
+  height: 21px;
+  position: relative;
+}
+
+.ios-UI-status-bar .element {
+  color: var(--primary);
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.ios-UI-status-bar .union {
+  height: 32px;
+  left: 102px;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
